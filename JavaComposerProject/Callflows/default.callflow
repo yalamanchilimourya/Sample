@@ -41,7 +41,7 @@
     <blocks xmi:type="gvp:PromptBlock" xmi:id="_kCrtwEYrEeeK2NaYZz9KKg" name="Shravani" condition="" category="Prompt">
       <prompts xmi:type="datatypes_1:PromptItem" xmi:id="_qYGXsEYrEeeK2NaYZz9KKg" name="Shravani_PromptMsg1" value="Lalala" type="Value" format="12 Hour" armBaseUrl="" armPersonalityID="" armFileExt="" customInterpretAsItem=""/>
     </blocks>
-    <blocks xmi:type="gvp:PromptBlock" xmi:id="_8vyEMEYsEeeK2NaYZz9KKg" name="MotherofDragons" category="Prompt">
+    <blocks xmi:type="gvp:PromptBlock" xmi:id="_8vyEMEYsEeeK2NaYZz9KKg" name="MotherofDragon" category="Prompt">
       <prompts xmi:type="datatypes_1:PromptItem" xmi:id="_HURWoEYtEeeK2NaYZz9KKg" name="MotherOfDragons" value="Prompt Data" type="Value" format="12 Hour" armBaseUrl="" armPersonalityID="" armFileExt="" customInterpretAsItem=""/>
     </blocks>
     <links xmi:type="gvp:CallflowOutputLink" xmi:id="_uOGyMEYmEeeK2NaYZz9KKg" fromBlock="_p9AJYEYmEeeK2NaYZz9KKg" toBlock="_qSPZkEYmEeeK2NaYZz9KKg"/>
